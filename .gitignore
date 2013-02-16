@@ -1,5 +1,11 @@
 .installed.cfg
+.mr.developer.cfg
+*.log
 bin/
 eggs/
 parts/
 var/
+*.iml
+*.ipr
+*.iws
+.idea/
